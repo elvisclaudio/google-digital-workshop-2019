@@ -2,14 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4811a59a-9051-4dc5-9612-97692df7ff4e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lab1/challenge1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab1/challenge3/Pair.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/google-digital-workshop-2019/lab1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab1/Main.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,13 +41,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Pair">
     <configuration name="Lab1" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lab1.Main" />
+      <option name="MAIN_CLASS_NAME" value="lab1.challenge1.Main" />
       <module name="google-digital-workshop-2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab1.*" />
+          <option name="PATTERN" value="lab1.challenge1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab1.challenge3.Pair" />
+      <module name="google-digital-workshop-2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab1.challenge3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -47,6 +70,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pair" />
         <item itemvalue="Application.Lab1" />
       </list>
     </recent_temporary>
