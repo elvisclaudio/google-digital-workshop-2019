@@ -2,8 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4811a59a-9051-4dc5-9612-97692df7ff4e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lab3/decorator/Bevrege.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/decorator/CondimentDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/decorator/DarkRoast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/decorator/Esspresso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/decorator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/decorator/Milk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/lesson/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/lesson/ChicagoPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/lesson/ChicagoPizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/lesson/LAPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/lesson/LAPizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/lesson/Lesson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/lesson/NYPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/lesson/NYPizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/lesson/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/lesson/PizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/visitor/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/visitor/Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/visitor/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/visitor/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/visitor/Visitor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab2/challenge1/Studio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab2/challenge1/Studio.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +34,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -38,13 +59,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="Lab1" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lab1.challenge1.Main" />
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Lesson (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab3.lesson.Lesson" />
       <module name="google-digital-workshop-2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab1.challenge1.*" />
+          <option name="PATTERN" value="lab3.lesson.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,6 +99,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab3.visitor.Main" />
+      <module name="google-digital-workshop-2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab3.visitor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lab2.lesson.Main" />
       <module name="google-digital-workshop-2019" />
@@ -91,26 +125,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab1.challenge3.Pair" />
-      <module name="google-digital-workshop-2019" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lab1.challenge3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Lesson (1)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Lesson" />
-        <item itemvalue="Application.Pair" />
-        <item itemvalue="Application.Lab1" />
       </list>
     </recent_temporary>
   </component>
