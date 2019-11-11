@@ -31,7 +31,7 @@ public class Studio {
 
     public Movie getFilmByActor(String actorName) {
         for (int i=0; i < movies.length; i++) {
-            if (movies[i].getActorByName("actorName") != null) {
+            if (movies[i].getActorByName(actorName) != null) {
                 return movies[i];
             }
         }
