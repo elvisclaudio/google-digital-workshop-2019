@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4811a59a-9051-4dc5-9612-97692df7ff4e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lab1/challenge1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab1/challenge3/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab2/challenge1/Actor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab2/challenge1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab2/challenge1/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab2/challenge1/Prize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab2/challenge1/Studio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab2/lesson/BoxingMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab2/lesson/Fighter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab2/lesson/Lesson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab2/lesson/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/google-digital-workshop-2019/lab1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab1/Main.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,13 +46,52 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Pair">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Lab1" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="lab1.challenge1.Main" />
       <module name="google-digital-workshop-2019" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lab1.challenge1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab2.lesson.Lesson" />
+      <module name="google-digital-workshop-2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab2.lesson.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab2.challenge1.Main" />
+      <module name="google-digital-workshop-2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab2.challenge1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab2.lesson.Main" />
+      <module name="google-digital-workshop-2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab2.lesson.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,6 +114,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Lesson" />
         <item itemvalue="Application.Pair" />
         <item itemvalue="Application.Lab1" />
       </list>
@@ -93,7 +140,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
