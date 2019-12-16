@@ -1,4 +1,4 @@
-package lab6;
+package lab6.Leaders;
 
 import java.util.ArrayList;
 import java.util.List;

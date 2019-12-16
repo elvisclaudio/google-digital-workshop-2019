@@ -2,16 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4811a59a-9051-4dc5-9612-97692df7ff4e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lab4/Exception/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4/Exception/MyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4/Exception/RunException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4/ch1/Contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4/ch1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4/ch1/PhoneBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4/ch1/phonebook.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/Challenge2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/Stream.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/google-digital-workshop-2019/META-INF/google-digital-workshop-2019.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/google-digital-workshop-2019/lab4/ch1/phonebook.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/google-digital-workshop-2019/lab4/ch1/phonebook.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/google-digital-workshop-2019/lab6/map/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/google-digital-workshop-2019/lab6/map/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6/Leaders/Container.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6/Leaders/Container.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6/Leaders/GenericLeaders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6/Leaders/GenericLeaders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6/Leaders/Leaders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6/Leaders/Leaders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6/Leaders/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6/Leaders/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6/map/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6/map/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab7/challenge/ch1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab7/challenge/ch1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab7/challenge/ch1/RabbitThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab7/challenge/ch1/RabbitThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab7/challenge/ch1/RabitRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab7/challenge/ch1/RabitRunnable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab7/challenge/ch2/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab7/challenge/ch2/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab7/challenge/ch2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab7/challenge/ch2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab7/challenge/ch2/TransactionThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab7/challenge/ch2/TransactionThread.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,41 +38,21 @@
   </component>
   <component name="ProjectId" id="1SqFvs2KQnFAAGuvtFL1wrLjjEk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Main (4)">
-    <configuration name="Lesson (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab3.lesson.Lesson" />
-      <module name="google-digital-workshop-2019" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lab3.lesson.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Stream">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab2.challenge1.Main" />
+      <option name="MAIN_CLASS_NAME" value="lab6.map.Main" />
       <module name="google-digital-workshop-2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab2.challenge1.*" />
+          <option name="PATTERN" value="lab6.map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,24 +61,11 @@
       </method>
     </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab3.visitor.Main" />
+      <option name="MAIN_CLASS_NAME" value="lab7.challenge.ch2.Main" />
       <module name="google-digital-workshop-2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab3.visitor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab4.Exception.Main" />
-      <module name="google-digital-workshop-2019" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lab4.Exception.*" />
+          <option name="PATTERN" value="lab7.challenge.ch2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,15 +86,66 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab7.challenge.ch1.Main" />
+      <module name="google-digital-workshop-2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab7.challenge.ch1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab6.Leaders.Main" />
+      <module name="google-digital-workshop-2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab6.Leaders.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab8.Stream" />
+      <module name="google-digital-workshop-2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Stream" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Lesson (1)" />
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -146,6 +172,42 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="653" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1575915873764">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state x="653" y="233" key="#com.intellij.ide.util.MemberChooser/0.23.1680.974@0.23.1680.974" timestamp="1575915873764" />
+    <state width="1358" height="236" key="GridCell.Tab.0.bottom" timestamp="1576522182519">
+      <screen x="0" y="23" width="1680" height="967" />
+    </state>
+    <state width="1358" height="236" key="GridCell.Tab.0.bottom/0.23.1680.967@0.23.1680.967" timestamp="1576522182519" />
+    <state width="1358" height="239" key="GridCell.Tab.0.bottom/0.23.1680.974@0.23.1680.974" timestamp="1575918777887" />
+    <state width="1358" height="236" key="GridCell.Tab.0.center" timestamp="1576522182518">
+      <screen x="0" y="23" width="1680" height="967" />
+    </state>
+    <state width="1358" height="236" key="GridCell.Tab.0.center/0.23.1680.967@0.23.1680.967" timestamp="1576522182518" />
+    <state width="1358" height="239" key="GridCell.Tab.0.center/0.23.1680.974@0.23.1680.974" timestamp="1575918777885" />
+    <state width="1358" height="236" key="GridCell.Tab.0.left" timestamp="1576522182518">
+      <screen x="0" y="23" width="1680" height="967" />
+    </state>
+    <state width="1358" height="236" key="GridCell.Tab.0.left/0.23.1680.967@0.23.1680.967" timestamp="1576522182518" />
+    <state width="1358" height="239" key="GridCell.Tab.0.left/0.23.1680.974@0.23.1680.974" timestamp="1575918777884" />
+    <state width="1358" height="236" key="GridCell.Tab.0.right" timestamp="1576522182519">
+      <screen x="0" y="23" width="1680" height="967" />
+    </state>
+    <state width="1358" height="236" key="GridCell.Tab.0.right/0.23.1680.967@0.23.1680.967" timestamp="1576522182519" />
+    <state width="1358" height="239" key="GridCell.Tab.0.right/0.23.1680.974@0.23.1680.974" timestamp="1575918777886" />
+    <state x="517" y="340" key="com.intellij.ide.util.TipDialog" timestamp="1576516960203">
+      <screen x="0" y="23" width="1680" height="967" />
+    </state>
+    <state x="517" y="340" key="com.intellij.ide.util.TipDialog/0.23.1680.967@0.23.1680.967" timestamp="1576516960203" />
+    <state x="517" y="342" key="com.intellij.ide.util.TipDialog/0.23.1680.974@0.23.1680.974" timestamp="1575911246935" />
+    <state x="443" y="295" key="com.intellij.ide.util.TipDialog/1440.-65.1920.1057/0.23.1440.829/-1920.-71.1920.1057@0.23.1440.829" timestamp="1575978694178" />
+    <state x="505" y="247" width="670" height="676" key="search.everywhere.popup" timestamp="1575916308567">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state x="505" y="247" width="670" height="676" key="search.everywhere.popup/0.23.1680.974@0.23.1680.974" timestamp="1575916308567" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/google_digital_workshop_2019$.ic" NAME=" Coverage Results" MODIFIED="1572284634100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

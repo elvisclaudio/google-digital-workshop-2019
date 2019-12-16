@@ -1,4 +1,4 @@
-package lab6;
+package lab6.Leaders;
 
 public class Container implements Comparable<Container> {
     private float size;

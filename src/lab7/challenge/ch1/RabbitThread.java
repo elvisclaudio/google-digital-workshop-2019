@@ -1,4 +1,15 @@
 package lab7.challenge.ch1;
 
-public class RabbitThread {
+public class RabbitThread extends Thread {
+
+    private int nr;
+
+    public RabbitThread(int nr) {
+        this.nr = nr;
+    }
+
+    @Override
+    public void run() {
+        System.out.println("Rabbit no " + nr +  "is running");
+    }
 }
