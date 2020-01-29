@@ -30,6 +30,10 @@ public class Stream {
     }
 
     public Stream ex3() {
+        boolean a = false;
+        if (a) {
+
+        }
 
         List<String> list = new ArrayList<>(Arrays.asList("Water","Office", "Building"));
 

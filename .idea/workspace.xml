@@ -2,23 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4811a59a-9051-4dc5-9612-97692df7ff4e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lab8/Challenge2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab8/Stream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/io_projectreactor_reactor_core_3_3_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/reactive-streams-1.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/reactor-core-3.3.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/google-digital-workshop-2019/lab9/challenge3/Challenge3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/google-digital-workshop-2019/lab9/challenge3/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problems/Observer/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problems/Observer/MainSubject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problems/Observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problems/Observer/Topic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problems/Observer/TopicSubscriber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problems/Singleton/DBSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problems/Singleton/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/challenge3/Challenge3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/challenge3/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/google-digital-workshop-2019/META-INF/google-digital-workshop-2019.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/google-digital-workshop-2019/lab4/ch1/phonebook.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/google-digital-workshop-2019/lab4/ch1/phonebook.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/google-digital-workshop-2019/lab6/map/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/google-digital-workshop-2019/lab6/map/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/Leaders/Container.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6/Leaders/Container.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/Leaders/GenericLeaders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6/Leaders/GenericLeaders.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/Leaders/Leaders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6/Leaders/Leaders.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/Leaders/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6/Leaders/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/map/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6/map/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab7/challenge/ch1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab7/challenge/ch1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab7/challenge/ch1/RabbitThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab7/challenge/ch1/RabbitThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab7/challenge/ch1/RabitRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab7/challenge/ch1/RabitRunnable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab7/challenge/ch2/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab7/challenge/ch2/BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab7/challenge/ch2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab7/challenge/ch2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab7/challenge/ch2/TransactionThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab7/challenge/ch2/TransactionThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/google-digital-workshop-2019.iml" beforeDir="false" afterPath="$PROJECT_DIR$/google-digital-workshop-2019.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/google-digital-workshop-2019/lab8/Stream.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/google-digital-workshop-2019/lab8/Stream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab8/Stream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab8/Stream.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +29,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Interface" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -44,15 +46,29 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.Stream">
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="Problems.Observer" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab6.map.Main" />
+      <option name="MAIN_CLASS_NAME" value="exercies.ex8.Main" />
       <module name="google-digital-workshop-2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab6.map.*" />
+          <option name="PATTERN" value="exercies.ex8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,11 +77,11 @@
       </method>
     </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab7.challenge.ch2.Main" />
+      <option name="MAIN_CLASS_NAME" value="Problems.Observer.Main" />
       <module name="google-digital-workshop-2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab7.challenge.ch2.*" />
+          <option name="PATTERN" value="Problems.Observer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,11 +90,11 @@
       </method>
     </configuration>
     <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab4.ch1.Main" />
+      <option name="MAIN_CLASS_NAME" value="Problems.Singleton.Main" />
       <module name="google-digital-workshop-2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab4.ch1.*" />
+          <option name="PATTERN" value="Problems.Singleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,11 +103,11 @@
       </method>
     </configuration>
     <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab7.challenge.ch1.Main" />
+      <option name="MAIN_CLASS_NAME" value="exercies.ex6.Main" />
       <module name="google-digital-workshop-2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab7.challenge.ch1.*" />
+          <option name="PATTERN" value="exercies.ex6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,24 +116,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab6.Leaders.Main" />
+      <option name="MAIN_CLASS_NAME" value="exercies.ex7.Main" />
       <module name="google-digital-workshop-2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab6.Leaders.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Stream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab8.Stream" />
-      <module name="google-digital-workshop-2019" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lab8.*" />
+          <option name="PATTERN" value="exercies.ex7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Stream" />
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -178,36 +181,78 @@
       <screen x="0" y="23" width="1680" height="974" />
     </state>
     <state x="653" y="233" key="#com.intellij.ide.util.MemberChooser/0.23.1680.974@0.23.1680.974" timestamp="1575915873764" />
-    <state width="1358" height="236" key="GridCell.Tab.0.bottom" timestamp="1576522182519">
-      <screen x="0" y="23" width="1680" height="967" />
+    <state width="1398" height="234" key="GridCell.Tab.0.bottom" timestamp="1580313500786">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1358" height="236" key="GridCell.Tab.0.bottom/0.23.1680.967@0.23.1680.967" timestamp="1576522182519" />
+    <state width="928" height="249" key="GridCell.Tab.0.bottom/0.23.1680.967@0.23.1680.967" timestamp="1579967075078" />
     <state width="1358" height="239" key="GridCell.Tab.0.bottom/0.23.1680.974@0.23.1680.974" timestamp="1575918777887" />
-    <state width="1358" height="236" key="GridCell.Tab.0.center" timestamp="1576522182518">
-      <screen x="0" y="23" width="1680" height="967" />
+    <state width="1398" height="234" key="GridCell.Tab.0.bottom/1440.-65.1920.1057/0.0.1440.852/-1920.-71.1920.1057@0.0.1440.852" timestamp="1580310729065" />
+    <state width="1398" height="234" key="GridCell.Tab.0.bottom/1440.-88.1920.1080/0.0.1440.900/-1920.-94.1920.1080@0.0.1440.900" timestamp="1580313500786" />
+    <state width="1398" height="234" key="GridCell.Tab.0.center" timestamp="1580313500784">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1358" height="236" key="GridCell.Tab.0.center/0.23.1680.967@0.23.1680.967" timestamp="1576522182518" />
+    <state width="928" height="249" key="GridCell.Tab.0.center/0.23.1680.967@0.23.1680.967" timestamp="1579967075077" />
     <state width="1358" height="239" key="GridCell.Tab.0.center/0.23.1680.974@0.23.1680.974" timestamp="1575918777885" />
-    <state width="1358" height="236" key="GridCell.Tab.0.left" timestamp="1576522182518">
-      <screen x="0" y="23" width="1680" height="967" />
+    <state width="1398" height="234" key="GridCell.Tab.0.center/1440.-65.1920.1057/0.0.1440.852/-1920.-71.1920.1057@0.0.1440.852" timestamp="1580310729062" />
+    <state width="1398" height="234" key="GridCell.Tab.0.center/1440.-88.1920.1080/0.0.1440.900/-1920.-94.1920.1080@0.0.1440.900" timestamp="1580313500784" />
+    <state width="1398" height="234" key="GridCell.Tab.0.left" timestamp="1580313500782">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1358" height="236" key="GridCell.Tab.0.left/0.23.1680.967@0.23.1680.967" timestamp="1576522182518" />
+    <state width="928" height="249" key="GridCell.Tab.0.left/0.23.1680.967@0.23.1680.967" timestamp="1579967075077" />
     <state width="1358" height="239" key="GridCell.Tab.0.left/0.23.1680.974@0.23.1680.974" timestamp="1575918777884" />
-    <state width="1358" height="236" key="GridCell.Tab.0.right" timestamp="1576522182519">
-      <screen x="0" y="23" width="1680" height="967" />
+    <state width="1398" height="234" key="GridCell.Tab.0.left/1440.-65.1920.1057/0.0.1440.852/-1920.-71.1920.1057@0.0.1440.852" timestamp="1580310729061" />
+    <state width="1398" height="234" key="GridCell.Tab.0.left/1440.-88.1920.1080/0.0.1440.900/-1920.-94.1920.1080@0.0.1440.900" timestamp="1580313500782" />
+    <state width="1398" height="234" key="GridCell.Tab.0.right" timestamp="1580313500785">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1358" height="236" key="GridCell.Tab.0.right/0.23.1680.967@0.23.1680.967" timestamp="1576522182519" />
+    <state width="928" height="249" key="GridCell.Tab.0.right/0.23.1680.967@0.23.1680.967" timestamp="1579967075078" />
     <state width="1358" height="239" key="GridCell.Tab.0.right/0.23.1680.974@0.23.1680.974" timestamp="1575918777886" />
-    <state x="517" y="340" key="com.intellij.ide.util.TipDialog" timestamp="1576516960203">
-      <screen x="0" y="23" width="1680" height="967" />
+    <state width="1398" height="234" key="GridCell.Tab.0.right/1440.-65.1920.1057/0.0.1440.852/-1920.-71.1920.1057@0.0.1440.852" timestamp="1580310729063" />
+    <state width="1398" height="234" key="GridCell.Tab.0.right/1440.-88.1920.1080/0.0.1440.900/-1920.-94.1920.1080@0.0.1440.900" timestamp="1580313500785" />
+    <state x="431" y="168" key="RollbackChangesDialog" timestamp="1580307160974">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="517" y="340" key="com.intellij.ide.util.TipDialog/0.23.1680.967@0.23.1680.967" timestamp="1576516960203" />
+    <state x="431" y="168" key="RollbackChangesDialog/1440.-88.1920.1080/0.0.1440.900/-1920.-94.1920.1080@0.0.1440.900" timestamp="1580307160974" />
+    <state x="221" y="213" key="SettingsEditor" timestamp="1578335564530">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="221" y="213" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1578335564530" />
+    <state x="221" y="226" key="SettingsEditor/0.23.1680.967@0.23.1680.967" timestamp="1578334782869" />
+    <state x="221" y="227" key="SettingsEditor/0.23.1680.974@0.23.1680.974" timestamp="1576930944689" />
+    <state x="443" y="295" key="com.intellij.ide.util.TipDialog" timestamp="1580307138498">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="517" y="344" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1579951471585" />
+    <state x="517" y="340" key="com.intellij.ide.util.TipDialog/0.23.1680.967@0.23.1680.967" timestamp="1578334729346" />
     <state x="517" y="342" key="com.intellij.ide.util.TipDialog/0.23.1680.974@0.23.1680.974" timestamp="1575911246935" />
     <state x="443" y="295" key="com.intellij.ide.util.TipDialog/1440.-65.1920.1057/0.23.1440.829/-1920.-71.1920.1057@0.23.1440.829" timestamp="1575978694178" />
-    <state x="505" y="247" width="670" height="676" key="search.everywhere.popup" timestamp="1575916308567">
-      <screen x="0" y="23" width="1680" height="974" />
+    <state x="443" y="295" key="com.intellij.ide.util.TipDialog/1440.-65.1920.1057/0.23.1440.830/-1920.-71.1920.1057@0.23.1440.830" timestamp="1576855638853" />
+    <state x="443" y="295" key="com.intellij.ide.util.TipDialog/1440.-88.1920.1080/0.0.1440.900/-1920.-94.1920.1080@0.0.1440.900" timestamp="1580307138498" />
+    <state x="437" y="532" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1578335544417">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="437" y="532" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1680.1050@0.0.1680.1050" timestamp="1578335544417" />
+    <state x="378" y="196" width="683" height="486" key="find.popup" timestamp="1580310537874">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="378" y="196" width="683" height="486" key="find.popup/1440.-65.1920.1057/0.0.1440.852/-1920.-71.1920.1057@0.0.1440.852" timestamp="1580310537874" />
+    <state x="378" y="207" width="683" height="486" key="find.popup/1440.-88.1920.1080/0.0.1440.900/-1920.-94.1920.1080@0.0.1440.900" timestamp="1580295630672" />
+    <state x="433" y="196" width="670" height="592" key="search.everywhere.popup" timestamp="1580308467042">
+      <screen x="0" y="0" width="1440" height="852" />
     </state>
     <state x="505" y="247" width="670" height="676" key="search.everywhere.popup/0.23.1680.974@0.23.1680.974" timestamp="1575916308567" />
+    <state x="433" y="196" width="670" height="592" key="search.everywhere.popup/1440.-65.1920.1057/0.0.1440.852/-1920.-71.1920.1057@0.0.1440.852" timestamp="1580308467042" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercies/ex3/Main.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/google_digital_workshop_2019$.ic" NAME=" Coverage Results" MODIFIED="1572284634100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
